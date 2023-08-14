@@ -1,16 +1,6 @@
 **Yahtzee Game🎲🎲🎲**
 
-
-
 Welcome to the Yahtzee Game repository! This project brings the classic dice game Yahtzee to the digital realm, allowing you to enjoy the thrill of rolling dice and strategizing to score the highest points.
-
-**About the Game**
-Features
-How to Play
-Installation
-Usage
-Contributing
-License
 
 <kbd><b>About the Game</b></kbd>
 Yahtzee is a timeless game of luck, strategy, and probability. This project aims to recreate the essence of the physical game in a digital format, bringing the joy of dice rolling and scorekeeping to your computer.
