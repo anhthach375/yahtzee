@@ -1,4 +1,6 @@
-**Yahtzee Game**
+**Yahtzee Game🎲🎲🎲**
+
+
 
 Welcome to the Yahtzee Game repository! This project brings the classic dice game Yahtzee to the digital realm, allowing you to enjoy the thrill of rolling dice and strategizing to score the highest points.
 
