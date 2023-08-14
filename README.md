@@ -25,4 +25,4 @@ Record your scores in different categories on the scorecard based on the achieve
 The player with the highest total score across multiple rounds wins the game
 
 <kbd><b>Installation</b></kbd>
-Clone this repository to your local machine using:
+Clone this repository to your local machine using: https://github.com/anhthach375/yahtzee.git
